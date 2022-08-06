@@ -4,7 +4,6 @@
  }
 
 .header {
- 
   display: block;
   padding: 10px;
   text-align: center;
@@ -61,7 +60,7 @@ h2 {
   line-height: 30px;
 }
 
-.paris1{
+.paris1 {
   width: 400px;
   height: 180px;
   background-color:rgb(69, 174, 24);
