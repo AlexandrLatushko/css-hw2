@@ -37,3 +37,42 @@
   text-decoration:underline;
   text-decoration-style: dotted;
 }
+
+.prague1 {
+  width: 400px;
+  height: 180px;
+  background-color:rgb(234, 234, 34);
+  margin: 25px 40px;
+  padding: 20px;
+  border-style: dotted;
+  border-width: 5px;
+}
+
+h2 {
+  text-transform: uppercase;
+  font-style: italic;
+  text-align: center;
+  font-size: 18px ;
+}
+
+.praque2 {
+  font-size: 15px;
+  text-indent: 30px;
+  line-height: 30px;
+}
+
+.paris1{
+  width: 400px;
+  height: 180px;
+  background-color:rgb(69, 174, 24);
+  margin: 50px 800px;
+  padding: 20px;
+  border-style:dashed;
+  border-width: 5px;
+}
+
+.paris2{
+  font-size: 15px;
+  text-indent: 30px;
+  line-height: 30px;
+}
