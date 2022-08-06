@@ -65,13 +65,45 @@ h2 {
   width: 400px;
   height: 180px;
   background-color:rgb(69, 174, 24);
-  margin: 50px 800px;
+  margin: 0px 800px;
   padding: 20px;
   border-style:dashed;
   border-width: 5px;
 }
 
-.paris2{
+.paris2 {
+  font-size: 15px;
+  text-indent: 30px;
+  line-height: 30px;
+}
+
+.germany1 {
+  width: 400px;
+  height: 180px;
+  background-color:rgba(109, 21, 124, 0.74);
+  margin: 0px 250px;
+  padding: 20px;
+  border-style: dashed;
+  border-width: 5px;
+}
+
+.germany2 {
+  font-size: 15px;
+  text-indent: 30px;
+  line-height: 30px;
+}
+
+.austria1 {
+  width: 400px;
+  height: 180px;
+  background-color:rgba(196, 81, 81, 0.74);
+  border-style: dotted;
+  border-width: 5px;
+  margin: 0px 500px;
+  padding: 20px;
+}
+
+.austria2 {
   font-size: 15px;
   text-indent: 30px;
   line-height: 30px;
