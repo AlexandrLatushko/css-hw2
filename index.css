@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+ }
+
+.header {
+ 
+  display: block;
+  padding: 10px;
+  text-align: center;
+  background-color:rgb(176, 210, 117);
+  letter-spacing: 5px ;
+}
+
+.tour {
+  font-size: 25px;
+  font-weight:900;
+  letter-spacing: 10px;
+  text-decoration-line:overline;
+}
+
+.paris {
+  font-weight: 900;
+  color:rgb(61, 98, 23);
+  text-decoration:underline;
+  text-decoration-style: dotted;
+}
+
+.tallinn {
+  text-decoration-line: line-through;
+  text-decoration-color: rgb(238, 7, 53);
+}
+
+.austria {
+  font-weight: 900;
+  color:rgb(61, 98, 23);
+  text-decoration:underline;
+  text-decoration-style: dotted;
+}
