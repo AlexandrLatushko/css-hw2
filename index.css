@@ -7,8 +7,9 @@
   display: block;
   padding: 10px;
   text-align: center;
-  background-color:rgb(176, 210, 117);
+  background-color:rgba(176, 210, 117, 0.847);
   letter-spacing: 5px ;
+
 }
 
 .tour {
@@ -16,18 +17,19 @@
   font-weight:900;
   letter-spacing: 10px;
   text-decoration-line:overline;
+  word-spacing: 10px;
 }
 
 .paris {
   font-weight: 900;
-  color:rgb(61, 98, 23);
+  color:rgba(60, 98, 23, 0.773);
   text-decoration:underline;
   text-decoration-style: dotted;
 }
 
 .tallinn {
   text-decoration-line: line-through;
-  text-decoration-color: rgb(238, 7, 53);
+  text-decoration-color: rgba(238, 7, 53, 0.698);
 }
 
 .austria {
@@ -40,7 +42,7 @@
 .prague1 {
   width: 400px;
   height: 180px;
-  background-color:rgb(234, 234, 34);
+  background-color:rgba(234, 234, 34, 0.786);
   margin: 25px 40px;
   padding: 20px;
   border-style: dotted;
@@ -63,7 +65,7 @@ h2 {
 .paris1 {
   width: 400px;
   height: 180px;
-  background-color:rgb(69, 174, 24);
+  background-color:rgba(69, 174, 24, 0.811);
   margin: 0px 800px;
   padding: 20px;
   border-style:dashed;
